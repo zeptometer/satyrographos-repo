@@ -8,14 +8,12 @@ env:
   - PACKAGE="satyrographos-repo-test"
   matrix:
   - OCAML_VERSION=4.06 EXTRA_DEPS="satysfi
-    satyrographos>=0.0.2
-    satyrographos<0.0.3
+    satyrographos=0.0.2.0
     satysfi-fonts-theano
     satysfi-fonts-theano-doc
     satysfi-lib-dist"
   - OCAML_VERSION=4.06 EXTRA_DEPS="satysfi
-    satyrographos>=0.0.1
-    satyrographos<0.0.2
+    satyrographos=0.0.1.7
     satysfi-class-stjarticle
     satysfi-siunitx
     satysfi-zrbase
