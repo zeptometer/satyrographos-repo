@@ -13,6 +13,7 @@ env:
   - OCAML_VERSION=4.06 EXTRA_DEPS="satysfi
     satyrographos=0.0.1.7
     satysfi-class-stjarticle
+    satysfi-karnaugh
     satysfi-siunitx
     satysfi-zrbase
     satysfi-lib-dist"
