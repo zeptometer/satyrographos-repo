@@ -40,9 +40,9 @@ remove: [
 ]
 url {
   src:
-    "https://github.com/yabaitechtokyo/satysfi-class-yabaitech/archive/0.0.2.tar.gz"
+    "https://github.com/yabaitechtokyo/satysfi-class-yabaitech/archive/0.0.4.tar.gz"
   checksum: [
-    "md5=c2a7efa40b3a6641ca65ee7040750081"
-    "sha512=565837219790170d4be5036792b3ba6e6e72506a8567c71682fab40ded8c2cd1acefba3b387ff5f675aad87042956b9d29b97d156ec743dacc9491404d37a3fc"
+    "md5=2fb7ae68f45dce62cae4c3eee406a1b8"
+    "sha512=679420b60dbd5aa007f2fbb290e9e85ed460cc518aa632691a5d0fdc1b47c848a3d4cdcdb6014f73392c25f23603941fc8b6935678b397b69166e984224a8a51"
   ]
 }
