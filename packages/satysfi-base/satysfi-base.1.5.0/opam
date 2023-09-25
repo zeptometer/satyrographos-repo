@@ -16,7 +16,7 @@ homepage: "https://github.com/nyuichi/satysfi-base"
 bug-reports: "https://github.com/nyuichi/satysfi-base/issues"
 dev-repo: "git+https://github.com/nyuichi/satysfi-base.git"
 depends: [
-  "satysfi" {>= "0.0.5" & < "0.1"}
+  "satysfi" {>= "0.0.5" & < "0.0.8"}
   "satysfi-dist"
   "satyrographos" {>= "0.0.2.6" & < "0.0.3"}
   "satysfi-fonts-dejavu" {>= "2.37"}
@@ -29,9 +29,9 @@ install: [
 ]
 url {
   src:
-    "https://github.com/nyuichi/satysfi-base/archive/refs/tags/1.5.0.tar.gz"
+    "https://github.com/nyuichi/satysfi-base/archive/refs/tags/1.6.0.tar.gz"
   checksum: [
-    "md5=cb3c21d3adeeb383a038c4cdb04e2cec"
-    "sha512=cc77c5ad6904dbdff8bcfdd5c7eb7865ddcd4b1a4f4f793bfdfd14536de253f8a4ec1d551b483780382f755e1a64f40da5aedb43aeacb38f8a350daa72596cec"
+    "md5=a2fa061a9deda4c6e5c2abd8cef48304"
+    "sha512=32409b51246663c3d0c4ba47cbdd65d86a7ed7ca66af559d6bb22a10e18f9a1c618a7b23e539adf491222eaa9f890be07b13217ac8ba13dfd731ca0cc1391f85"
   ]
 }
